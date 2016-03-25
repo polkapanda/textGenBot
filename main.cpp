@@ -56,11 +56,6 @@ int main(int argc, char** argv){
         line = "";
     }
 
-//    parseSentence("Hello I'm Robert");
-//    parseSentence("Hi I'm a duck");
-//    parseSentence("a duck goes quack");
-//    print_map(markovChain);
-//    cout << generateText();
     return 0;
 }
 void split(string s){
